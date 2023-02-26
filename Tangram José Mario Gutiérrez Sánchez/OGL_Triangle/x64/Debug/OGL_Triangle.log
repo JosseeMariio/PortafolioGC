@@ -1,0 +1,63 @@
+﻿  main.cpp
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(111,10): error C2059: error de sintaxis: 'constante'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(120,5): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(130,23): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(130,5): error C2373: 'glad_glGenVertexArrays': nueva definición; modificadores de tipo distintos
+c:\GL\include\GLAD\glad.h(1839,32): message : vea la declaración de 'glad_glGenVertexArrays'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(131,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(131,5): error C2373: 'glad_glGenBuffers': nueva definición; modificadores de tipo distintos
+c:\GL\include\GLAD\glad.h(1257,27): message : vea la declaración de 'glad_glGenBuffers'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(132,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(132,5): error C2373: 'glad_glGenBuffers': nueva definición; modificadores de tipo distintos
+c:\GL\include\GLAD\glad.h(1257,27): message : vea la declaración de 'glad_glGenBuffers'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(136,26): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(136,5): error C2373: 'glad_glBindVertexArray': nueva definición; modificadores de tipo distintos
+c:\GL\include\GLAD\glad.h(1833,32): message : vea la declaración de 'glad_glBindVertexArray'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(138,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(138,5): error C2373: 'glad_glBindBuffer': nueva definición; modificadores de tipo distintos
+c:\GL\include\GLAD\glad.h(1251,27): message : vea la declaración de 'glad_glBindBuffer'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(139,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(139,5): error C2373: 'glad_glBufferData': nueva definición; modificadores de tipo distintos
+c:\GL\include\GLAD\glad.h(1263,27): message : vea la declaración de 'glad_glBufferData'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(139,42): error C2065: 'vertices': identificador no declarado
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(139,53): error C2065: 'vertices': identificador no declarado
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(145,27): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(145,5): error C2373: 'glad_glVertexAttribPointer': nueva definición; modificadores de tipo distintos
+c:\GL\include\GLAD\glad.h(1564,36): message : vea la declaración de 'glad_glVertexAttribPointer'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(146,31): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(146,5): error C2373: 'glad_glEnableVertexAttribArray': nueva definición; modificadores de tipo distintos
+c:\GL\include\GLAD\glad.h(1330,40): message : vea la declaración de 'glad_glEnableVertexAttribArray'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(148,27): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(148,5): error C2373: 'glad_glVertexAttribPointer': nueva definición; modificadores de tipo distintos
+c:\GL\include\GLAD\glad.h(1564,36): message : vea la declaración de 'glad_glVertexAttribPointer'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(149,31): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(149,5): error C2373: 'glad_glEnableVertexAttribArray': nueva definición; modificadores de tipo distintos
+c:\GL\include\GLAD\glad.h(1330,40): message : vea la declaración de 'glad_glEnableVertexAttribArray'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(152,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(152,5): error C2373: 'glad_glBindBuffer': nueva definición; modificadores de tipo distintos
+c:\GL\include\GLAD\glad.h(1251,27): message : vea la declaración de 'glad_glBindBuffer'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(156,23): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(156,5): error C2373: 'glad_glBindVertexArray': nueva definición; modificadores de tipo distintos
+c:\GL\include\GLAD\glad.h(1833,32): message : vea la declaración de 'glad_glBindVertexArray'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(164,5): error C2059: error de sintaxis: 'while'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(165,5): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(165,5): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(193,26): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(193,5): error C2373: 'glad_glDeleteVertexArrays': nueva definición; modificadores de tipo distintos
+c:\GL\include\GLAD\glad.h(1836,35): message : vea la declaración de 'glad_glDeleteVertexArrays'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(194,21): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(194,5): error C2373: 'glad_glDeleteBuffers': nueva definición; modificadores de tipo distintos
+c:\GL\include\GLAD\glad.h(1254,30): message : vea la declaración de 'glad_glDeleteBuffers'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(195,21): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(195,5): error C2373: 'glad_glDeleteBuffers': nueva definición; modificadores de tipo distintos
+c:\GL\include\GLAD\glad.h(1254,30): message : vea la declaración de 'glad_glDeleteBuffers'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(199,20): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(199,20): error C2556: 'int glfwTerminate(void)': la función sobrecargada solo se diferencia de 'void glfwTerminate(void)' por el tipo de valor devuelto
+c:\GL\include\GLFW\glfw3.h(1797,14): message : vea la declaración de 'glfwTerminate'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(199,5): error C2371: 'glfwTerminate': nueva definición; tipos básicos distintos
+c:\GL\include\GLFW\glfw3.h(1797,14): message : vea la declaración de 'glfwTerminate'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(200,5): error C2059: error de sintaxis: 'return'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(201,1): error C2059: error de sintaxis: '}'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(201,1): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(206,1): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\jose_\OneDrive\Escritorio\Ejercicios 2do Parcial\OGL_Triangle\OGL_Triangle\main.cpp(206,1): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
